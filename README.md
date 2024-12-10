@@ -41,6 +41,13 @@
   </a>
 </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
-    
-</h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/franco-zelione-a4a72b2a3/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/franco_zelione/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
