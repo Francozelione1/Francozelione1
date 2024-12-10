@@ -13,8 +13,11 @@
 </p>
 
 <h2> About Me </h2>
+<div size='20px'>
+I am a Systems Engineering student at the National Technological University (UTN), currently in my third year, and a Full Stack Developer. I work for Highlands S.R.L., an English language school, where I apply my skills in programming and technology to develop and maintain innovative solutions. Passionate about learning and solving challenges, I strive to grow and contribute in every project I undertake.
+</div>
+
 <p align='center'>
-    I am a Systems Engineering student at the National Technological University (UTN), currently in my third year, and a Full Stack Developer. I work for Highlands S.R.L., an English language school, where I apply my skills in programming and technology to develop and maintain innovative solutions. Passionate about learning and solving challenges, I strive to grow and contribute in every project I undertake.
 </p>
 
 <h2> Projects </h2>
