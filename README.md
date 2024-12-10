@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="file:///C:/Users/pc/Desktop/fotoCv.jpeg">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "file:///C:/Users/pc/Desktop/fotoCv.jpeg" width = 30px> </h1>
+<h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
 </p>
 
