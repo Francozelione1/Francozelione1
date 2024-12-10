@@ -2,7 +2,7 @@
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "![fotoCv](https://github.com/user-attachments/assets/2c9c3115-a4d7-4766-bb34-9bcf6476b91c)" width = 30px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "file:///C:/Users/pc/Desktop/fotoCv.jpeg" width = 30px> </h1>
 <p align='center'>
 </p>
 
