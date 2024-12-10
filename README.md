@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="![fotoCv]file:///C:/Users/pc/Desktop/fotoCv.jpeg">
+    <img width="200" src="![fotoCv](https://github.com/user-attachments/assets/97b8f1ac-4a92-4361-a214-75ac0b535481)">
 </p>
 
 <h1> Hello Fellow < Developers/ >! </h1>
